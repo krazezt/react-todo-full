@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "itss-nippongo",
+    "abc": "itss-nippongo"
+  },
+  "targets": {}
+}
